@@ -1,0 +1,41 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+input:not([type="file"]) {
+    margin: 15px;
+    border: 3px solid greenyellow;
+    border-radius: 20px;
+}
+
+#main_div {
+    border: 1px solid red;
+    margin: 10px;
+}
+
+form {
+    text-align: center;
+}
+
+select {
+    margin: 15px;
+    width: 30%;
+    border: 3px solid greenyellow;
+    border-radius: 20px;
+}
+
+label {
+    color: red;
+    font-size: 23px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+button {
+    width: 30%;
+    border-radius: 20%;
+}
+
+h1 {
+    color: brown;
+}
